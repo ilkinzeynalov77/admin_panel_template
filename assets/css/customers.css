@@ -1,0 +1,22 @@
+.details .recentOrders table tr td:last-child{
+    text-align: end;
+}
+.contacts-main{
+    display: none;
+}
+.contact{
+    display: none;
+}
+.customer-active{
+    display: block;
+}
+.message-input-custom{
+    width: 350px;
+    height: 35px;
+    padding: 5px;
+    font-size: 17px;
+    font-weight: 500;
+    outline: none;
+    border: 1px solid var(--blue);
+    border-radius: 8px;
+}
